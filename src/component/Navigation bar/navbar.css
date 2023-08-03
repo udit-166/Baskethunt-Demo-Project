@@ -1,0 +1,21 @@
+.imglogo{
+    width: 12%;
+    height: 20%;
+    margin-left: 4%;
+    margin-right: 6%;
+}
+.btncolor{ 
+    border-radius: 10px;
+    border: 1px solid #FF7A3D;
+    background-color: white;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+.fnt{
+    font-family: 'Nunito San';
+    
+}
+a{
+    font: bold;
+    font-size: 16%;
+}

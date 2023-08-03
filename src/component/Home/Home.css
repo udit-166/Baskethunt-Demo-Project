@@ -1,0 +1,95 @@
+.title{
+    padding: 9%;
+    padding-bottom: 2% !important;
+}
+.heading{
+    font-size: 64px;
+}
+.headc{
+    color: #FF7A3D;
+}
+.f-size{
+    font-size: 16px;
+}
+.fnt{
+    font-family: 'Nunito San'; 
+}
+.btncolor{ 
+    border-radius: 10px;
+    border: 1px solid #FF7A3D;
+    background-color: white;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+.btncolor:hover{
+    background-color: #FF7A3D;
+    color: white;
+}
+.imghw{
+    padding-top: 15%;
+    height: 80%;
+    width: 77%;
+}
+.title1{
+    padding-top: 10%;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+.imghw1{
+    padding-left:7% ;
+    height: 100%;
+    width: 90%;
+}
+.title2{
+    padding-top: 10%;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.btn1{
+    border-radius: 20px;
+    background-color: #FF7A3D;
+    border-color: #FF7A3D;
+    color: white;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.para{
+    margin-left:20%;
+    margin-right: 20%;
+    font: 16;
+}
+.btncolor1{ 
+    border-radius: 25px;
+    border: 1px solid #FF7A3D;
+    background-color: #FF7A3D;
+    color: white;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+.title3{
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-bottom: 5%;
+}
+.imghw3{
+    width: 80%;
+}
+.title4{
+    padding-top: 10%;
+}
+.progress-bar{
+    width: 5%;
+    background-color: #FF7A3D !important;
+    border-radius: 25px;
+}
+.progress{
+    width: 80%;
+    padding-top: 0.5%;
+    padding-left: 0.5%;
+    padding-bottom: 0.5%;
+    border-radius: 25px;
+    box-shadow: 0 4px 3px -2px rgba(0,0,0,0.2);
+}
+.pro{
+    color: gray;
+}
